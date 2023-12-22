@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjw-blog&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### [개발중인 포트폴리오](https://campers-gamma.vercel.app/){:target="_blank"}
+### [개발중인 포트폴리오](https://campers-gamma.vercel.app/)
